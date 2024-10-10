@@ -2,7 +2,7 @@
 
 This repository contains the implementation for HiCAT. 
 
-Our Framework is based the code originally presented in the paper [TS2Vec: Towards Universal Representation of Time Series (AAAI-22)](https://arxiv.org/abs/2106.10466). The original code was adapted and improved to enhance performance on classification tasks.
+Our Framework is based on the code from the TS2Vec paper [TS2Vec: Towards Universal Representation of Time Series (AAAI-22)](https://arxiv.org/abs/2106.10466). 
 
 ## Datasets
 
