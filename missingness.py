@@ -3,7 +3,7 @@ import torch
 
 def make_general_mask(X: torch.Tensor, p: float, seed: int = 0) -> torch.Tensor:
     """
-    General missing: "missing points distributed at random".
+    General missing: "missing points distributed at random way".
     Returns M in {0,1} with same shape as X (N,T,D).
     """
     assert 0.0 <= p < 1.0
